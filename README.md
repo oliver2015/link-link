@@ -1,2 +1,2 @@
 # link-link
-link-link digital ganme
+link-link digital game
